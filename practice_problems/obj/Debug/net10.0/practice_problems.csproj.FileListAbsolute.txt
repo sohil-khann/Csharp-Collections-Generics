@@ -1,0 +1,15 @@
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\obj\Debug\net10.0\practice_problems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\obj\Debug\net10.0\practice_problems.AssemblyInfoInputs.cache
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\obj\Debug\net10.0\practice_problems.AssemblyInfo.cs
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\obj\Debug\net10.0\practice_problems.csproj.CoreCompileInputs.cache
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\obj\Debug\net10.0\practice_problems.sourcelink.json
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\bin\Debug\net10.0\practice_problems.exe
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\bin\Debug\net10.0\practice_problems.deps.json
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\bin\Debug\net10.0\practice_problems.runtimeconfig.json
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\bin\Debug\net10.0\practice_problems.dll
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\bin\Debug\net10.0\practice_problems.pdb
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\obj\Debug\net10.0\practice_problems.dll
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\obj\Debug\net10.0\refint\practice_problems.dll
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\obj\Debug\net10.0\practice_problems.pdb
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\obj\Debug\net10.0\practice_problems.genruntimeconfig.cache
+D:\Acess meditech\Csharp-Collections-Generics\practice_problems\obj\Debug\net10.0\ref\practice_problems.dll
